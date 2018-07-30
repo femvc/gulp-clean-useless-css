@@ -1,0 +1,28 @@
+{
+  "name": "gulp-clean-useless-css",
+  "version": "1.0.0",
+  "description": "gulp clean useless css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femvc/gulp-clean-useless-css.git"
+  },
+  "keywords": [
+    "gulp",
+    "clean",
+    "useless",
+    "css"
+  ],
+  "author": "haiyang5210",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femvc/gulp-clean-useless-css/issues"
+  },
+  "homepage": "https://github.com/femvc/gulp-clean-useless-css#readme",
+  "dependencies": {
+    "css-format-new": "^1.0.0"
+  }
+}
